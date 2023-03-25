@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postal-lookup/static/css/main.323b19bf.css",
+    "main.js": "/postal-lookup/static/js/main.cab8cda3.js",
+    "index.html": "/postal-lookup/index.html",
+    "main.323b19bf.css.map": "/postal-lookup/static/css/main.323b19bf.css.map",
+    "main.cab8cda3.js.map": "/postal-lookup/static/js/main.cab8cda3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323b19bf.css",
+    "static/js/main.cab8cda3.js"
+  ]
+}
